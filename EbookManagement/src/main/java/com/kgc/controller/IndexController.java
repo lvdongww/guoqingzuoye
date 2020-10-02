@@ -16,10 +16,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author shkstart
- * @create 2020-09-19 10:05
- */
+
 @Controller
 public class IndexController {
     @Resource

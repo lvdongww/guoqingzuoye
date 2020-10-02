@@ -8,10 +8,7 @@ import org.springframework.stereotype.Service;
 import javax.annotation.Resource;
 import java.util.List;
 
-/**
- * @author shkstart
- * @create 2020-09-19 10:13
- */
+
 @Service("ebookCategoryService")
 public class EbookCategoryServiceImpl implements EbookCategoryService {
     @Resource
